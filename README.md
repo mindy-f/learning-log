@@ -25,3 +25,8 @@ git clone https://github.com/your-username/learning-log.git
 ## Week 3
 
 Learning how issues and pull requests let people suggest and approve changes to shared code.
+
+## Client repos I'm watching
+
+- Second Moment website: https://github.com/second-moment-ai/shmem-website
+- DefraDB from Source Network: https://github.com/sourcenetwork/defradb
