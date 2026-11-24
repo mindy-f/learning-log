@@ -21,3 +21,7 @@ I want to understand the developer world my clients work in.
 ```bash
 git clone https://github.com/your-username/learning-log.git
 ```
+
+## Week 3
+
+Learning how issues and pull requests let people suggest and approve changes to shared code.
